@@ -1,0 +1,1 @@
+This repository is about my HKU SPACE Executive Certificate coursework on financial prediction. I implemented a time-series prediction model to predict stock price, exploring the intersection of artificial intelligence, machine learning and quantitative finance.
